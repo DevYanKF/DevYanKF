@@ -19,4 +19,4 @@
     <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevYanKF&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/DevYanKF/github-readme-stats)
