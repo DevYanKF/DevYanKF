@@ -18,5 +18,3 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevYanKF&hide_progress=false)](https://github.com/DevYanKF/github-readme-stats)
